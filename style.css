@@ -1,0 +1,63 @@
+body {background-color: red;
+}
+
+h2 {text-align: center;
+color: whitesmoke;
+border-style: dashed;
+border-color: gray;
+text-align: center;
+}
+
+#Cypher {width: 50%;
+border: 9px;
+border-style: dotted;
+border-color: gray;
+size-adjust: 40px;}
+
+#omen {width: 50%;
+size-adjust: 40px;
+}
+
+h3 {color: rgb(17, 24, 24);
+border: 5px;
+border-style: outset;
+border-color: darkblue;
+text-align: center;}
+
+#jett {size-adjust: 40px;
+width: 50%;
+border-style: groove;
+border-color: whitesmoke;}
+
+h4 {text-align: center;
+width: 90%;
+color: whitesmoke;
+border-style: solid;
+border-color: gray;}
+
+#sage {size-adjust: 50px;
+width: 50%;
+border-style: unset;
+border-color: aqua;
+}
+
+h5 {width: 100%;
+size: 20px;
+text-align: center;
+color: aquamarine;
+border-style: inset;
+border-color: gray;
+}
+
+#gekko {size-adjust: 50px;
+width: 50%;
+border-style: double;
+border-color: green;
+}
+
+h6 {color:rgb(83, 224, 64);
+border-style: double;
+border-color: gray;
+width: 100%;
+size: 40px;
+text-align: center;}
